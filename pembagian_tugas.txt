@@ -1,0 +1,10 @@
+Owner membuat halaman beranda.
+
+Di halaman beranda terdapat tombol menuju halaman nilai.
+
+Kolaborator membuat halaman nilai.
+
+Isi halaman nilai:
+- Nama owner
+- Nama kolaborator 1
+- Nama kolaborator 2
